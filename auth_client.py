@@ -1,5 +1,5 @@
 import json
-import pyrebase
+import pyrebase4 as pyrebase
 from typing import Optional, Tuple
 
 with open("firebase_client_config.json", "r") as f:
